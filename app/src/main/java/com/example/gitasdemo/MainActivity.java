@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("hot2");
         System.out.println("master");
         System.out.println("hot");
+
+        System.out.println("push");
     }
 }
