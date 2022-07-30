@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         int b;
         System.out.println("hot1");
         System.out.println("hot2");
+        System.out.println("master");
     }
 }
