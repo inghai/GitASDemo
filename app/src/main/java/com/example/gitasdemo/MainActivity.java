@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("push");
         System.out.println("push2");
+        System.out.println("push3");
     }
 }
